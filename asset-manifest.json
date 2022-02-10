@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Responsive-UI-UX-Figma-Design/static/css/main.f82bdcc9.css",
-    "main.js": "/React-Responsive-UI-UX-Figma-Design/static/js/main.e753c751.js",
+    "main.css": "/React-Responsive-UI-UX-Figma-Design/static/css/main.32c96b74.css",
+    "main.js": "/React-Responsive-UI-UX-Figma-Design/static/js/main.74a6d7e9.js",
+    "static/media/ai.png": "/React-Responsive-UI-UX-Figma-Design/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/React-Responsive-UI-UX-Figma-Design/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/React-Responsive-UI-UX-Figma-Design/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/React-Responsive-UI-UX-Figma-Design/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/React-Responsive-UI-UX-Figma-Design/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/React-Responsive-UI-UX-Figma-Design/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/React-Responsive-UI-UX-Figma-Design/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/React-Responsive-UI-UX-Figma-Design/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/React-Responsive-UI-UX-Figma-Design/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/React-Responsive-UI-UX-Figma-Design/index.html",
-    "main.f82bdcc9.css.map": "/React-Responsive-UI-UX-Figma-Design/static/css/main.f82bdcc9.css.map",
-    "main.e753c751.js.map": "/React-Responsive-UI-UX-Figma-Design/static/js/main.e753c751.js.map"
+    "main.32c96b74.css.map": "/React-Responsive-UI-UX-Figma-Design/static/css/main.32c96b74.css.map",
+    "main.74a6d7e9.js.map": "/React-Responsive-UI-UX-Figma-Design/static/js/main.74a6d7e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f82bdcc9.css",
-    "static/js/main.e753c751.js"
+    "static/css/main.32c96b74.css",
+    "static/js/main.74a6d7e9.js"
   ]
 }
