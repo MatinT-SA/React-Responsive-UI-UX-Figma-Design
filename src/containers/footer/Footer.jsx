@@ -12,19 +12,19 @@ const Footer = () => {
             </div>
 
             <div className='gpt3__footer-btn'>
-                <p>Reqeust Earliy Access</p>
+                <p>Reqeust Early Access</p>
             </div>
 
             <div className='gpt3__footer-links'>
                 <div className='gpt3__footer-links_logo'>
                     <img src={gpt3Logo} alt="logo" />
-                    <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
+                    <p>Alborz T18 468 AL - - Karaj, <br /> All Rights Reserved</p>
                 </div>
                 <div className='gpt3__footer-links_div'>
                     <h4>Links</h4>
-                    <p>Overons</p>
+                    <p>News/Blog</p>
                     <p>Social Media</p>
-                    <p>Counters</p>
+                    <p>About Me</p>
                     <p>Contact</p>
                 </div>
                 <div className='gpt3__footer-links_div'>
@@ -35,8 +35,8 @@ const Footer = () => {
                 </div>
                 <div className='gpt3__footer-links_div'>
                     <h4>Get in touch</h4>
-                    <p>Crechterwoord K12 182 DK Alknjkcb</p>
-                    <p>098-454569</p>
+                    <p>Alborz T18 468 AL - - Karaj</p>
+                    <p>098-9334363774</p>
                     <p>matin.taherzadeh.mmtsa@gmail.com</p>
                 </div>
             </div>

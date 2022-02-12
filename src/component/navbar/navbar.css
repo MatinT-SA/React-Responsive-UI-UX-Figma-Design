@@ -3,6 +3,31 @@
     justify-content: space-around;
     align-items: center;
     padding:2rem 6rem;
+    height: 105px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 5;
+    transition: .4s;
+}
+
+.gpt3__navbar.active{
+    /* ff 3.6+ */
+    background:-moz-radial-gradient(ellipse at 94% 75%, rgba(0, 211, 31, 1) 0%, rgba(75, 237, 183, 1) 100%);
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-radial-gradient(ellipse at 94% 75%, rgba(0, 211, 31, 1) 0%, rgba(75, 237, 183, 1) 100%);
+
+    /* opera 11.10+ */
+    background:-o-radial-gradient(ellipse at 94% 75%, rgba(0, 211, 31, 1) 0%, rgba(75, 237, 183, 1) 100%);
+
+    /* ie 10+ */
+    background:-ms-radial-gradient(ellipse at 94% 75%, rgba(0, 211, 31, 1) 0%, rgba(75, 237, 183, 1) 100%);
+
+    /* global 92%+ browsers support */
+    background:radial-gradient(ellipse at 94% 75%, rgba(0, 211, 31, 1) 0%, rgba(75, 237, 183, 1) 100%);
+
+    box-shadow: 0 4px 10px #4dff4d;
 }
 
 .gpt3__navbar-links{
@@ -14,7 +39,6 @@
 
 .gpt3__navbar-links_logo{
     margin-right: 2rem;
-
 }
 
 .gpt3__navbar-links_logo img{
@@ -44,6 +68,16 @@
     text-transform: capitalize;
     margin: 0 1rem;
     cursor: pointer;
+    transition: .4s all ease;
+}
+
+.gpt3__navbar-links_container p:hover{
+    color: var(--color-links);
+}
+
+.gpt3__navbar-sign p:hover{
+    color: #fff;
+    background: #ff4820;
 }
 
 .gpt3__navbar-sign button,
@@ -59,6 +93,19 @@
     border:0;
     outline: none;
     cursor: pointer;
+    transition: .4s all ease;
+}
+
+.gpt3__navbar-sign p{
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: .4s all ease;
+}
+
+.gpt3__navbar-sign button:hover{
+    background-color: transparent;
+    outline: 2px solid #ff4820;
+    padding: 0.5rem 1rem;
 }
 
 .gpt3__navbar-menu{

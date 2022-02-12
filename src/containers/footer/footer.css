@@ -41,6 +41,15 @@
     line-height: 21px;
     color: #fff;
     word-spacing: 2px;
+    transition: .4s all ease;
+}
+
+.gpt3__footer-btn P:hover{
+    color:var(--color-links);
+}
+
+.gpt3__footer-btn p:hover .gpt3__footer-btn p{
+    color:red!important;
 }
 
 .gpt3__footer-links{
@@ -100,6 +109,11 @@
 
     margin: 0.5rem 0;
     cursor: pointer;
+    transition: .4s all ease;
+}
+
+.gpt3__footer-links_div p:hover{
+    color:var(--color-links);
 }
 
 .gpt3__footer-copyright{
